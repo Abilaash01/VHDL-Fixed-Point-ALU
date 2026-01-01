@@ -45,7 +45,7 @@ The full adder is the fundamental building block for multi-bit addition.
 ![1-Bit Full Adder Truth Table](images/full_adder_truth_table.png)
 
 **Logic Diagram (1-bit Full Adder)**  
-![1-Bit Full Adder Logic Diagram]([images/full_adder_logic.png](https://github.com/Abilaash01/VHDL-Fixed-Point-ALU/blob/main/one-bit-adder.png))
+![1-Bit Full Adder Logic Diagram](https://github.com/Abilaash01/VHDL-Fixed-Point-ALU/blob/main/one-bit-adder.png)
 
 ### 4-Bit Ripple Carry Adder/Subtractor
 Cascading 1-bit full adders forms a **ripple-carry adder**. Subtraction is implemented using 2’s complement:
