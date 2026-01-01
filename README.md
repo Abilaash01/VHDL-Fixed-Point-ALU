@@ -42,7 +42,7 @@ All operations use **2’s complement representation** for signed numbers, which
 The full adder is the fundamental building block for multi-bit addition.
 
 **Truth Table (1-bit Full Adder)**  
-![1-Bit Full Adder Truth Table](images/full_adder_truth_table.png)
+![1-Bit Full Adder Truth Table](https://github.com/Abilaash01/VHDL-Fixed-Point-ALU/blob/main/truth%20table.png)
 
 **Logic Diagram (1-bit Full Adder)**  
 ![1-Bit Full Adder Logic Diagram](https://github.com/Abilaash01/VHDL-Fixed-Point-ALU/blob/main/one-bit-adder.png)
